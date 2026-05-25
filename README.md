@@ -57,6 +57,5 @@ Designed for HR business partners to filter down into specific operational metri
 
 ## 📂 Repository Structure
 ```text
-├── Data/                  # Source dataset files (CSV/Excel format)
-├── Dashboard/             # Power BI Desktop template file (.pbix)
+├── HR/             # Power BI Desktop template file (.pbix)
 └── README.md              # Project documentation
